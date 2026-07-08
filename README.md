@@ -163,12 +163,12 @@ Estimated at **~€2.19 / month** for two full environments (staging + productio
 
 ## 👥 Contributors
 
-| Member | Role |
-|---|---|
-| **Melvin Petit** ([@WhiteMuush](https://github.com/WhiteMuush)) | Documentation, GitLab / Azure governance, project coordination |
-| **Thomas Enjalbert** | Azure infrastructure and Infrastructure as Code |
-| **Mohamed Saidi** | Logging API development |
-| **Aïcha Elouadi** | Documentation, GitLab / Azure governance |
+| | Member | Role |
+|:---:|---|---|
+| <a href="https://github.com/WhiteMuush"><img src="https://github.com/WhiteMuush.png?size=48" width="48" height="48" alt="WhiteMuush"/></a> | **Melvin Petit** ([@WhiteMuush](https://github.com/WhiteMuush)) | Documentation, GitLab / Azure governance, project coordination |
+| <a href="https://github.com/thomas-enj"><img src="https://github.com/thomas-enj.png?size=48" width="48" height="48" alt="thomas-enj"/></a> | **Thomas Enjalbert** ([@thomas-enj](https://github.com/thomas-enj)) | Azure infrastructure and Infrastructure as Code |
+| <a href="https://github.com/ororck"><img src="https://github.com/ororck.png?size=48" width="48" height="48" alt="ororck"/></a> | **Mohamed Saidi** ([@ororck](https://github.com/ororck)) | Logging API development |
+| <a href="https://github.com/elouadiaicha"><img src="https://github.com/elouadiaicha.png?size=48" width="48" height="48" alt="elouadiaicha"/></a> | **Aïcha Elouadi** ([@elouadiaicha](https://github.com/elouadiaicha)) | Documentation, GitLab / Azure governance |
 
 GitLab members: [street-termites group](https://gitlab.com/groups/street-termites/-/group_members).
 
