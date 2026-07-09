@@ -35,6 +35,20 @@ The project demonstrates a full DevOps chain:
 
 ---
 
+## 👥 Contributors
+
+| | Member | Role |
+|:---:|---|---|
+| <a href="https://github.com/WhiteMuush"><img src="https://github.com/WhiteMuush.png?size=48" width="48" height="48" alt="WhiteMuush"/></a> | **Melvin Petit** ([@WhiteMuush](https://github.com/WhiteMuush)) | GitLab (CI/CD) / Azure |
+| <a href="https://github.com/thomas-enj"><img src="https://github.com/thomas-enj.png?size=48" width="48" height="48" alt="thomas-enj"/></a> | **Thomas Enjalbert** ([@thomas-enj](https://github.com/thomas-enj)) | Documentation and Infrastructure as Code |
+| <a href="https://github.com/ororck"><img src="https://github.com/ororck.png?size=48" width="48" height="48" alt="ororck"/></a> | **Mohamed Saidi** ([@ororck](https://github.com/ororck)) | Logging API development & Infrastructure as Code|
+| <a href="https://github.com/elouadiaicha"><img src="https://github.com/elouadiaicha.png?size=48" width="48" height="48" alt="elouadiaicha"/></a> | **Aïcha Elouadi** ([@elouadiaicha](https://github.com/elouadiaicha)) |  GitLab (CI/CD) / Azure |
+
+GitLab members: [street-termites group](https://gitlab.com/groups/street-termites/-/group_members).
+
+---
+
+
 ## 📦 The three repositories
 
 Everything is split across three GitLab repositories in the `street-termites` group. Click through:
@@ -158,19 +172,6 @@ Estimated at **~€2.19 / month** for two full environments (staging + productio
 | CI/CD | GitLab CI/CD | Automated test + deploy |
 | Auth | App Registration + OIDC | Passwordless, no stored secret |
 | Network | VNet + Service Endpoint | Isolation of the storage |
-
----
-
-## 👥 Contributors
-
-| | Member | Role |
-|:---:|---|---|
-| <a href="https://github.com/WhiteMuush"><img src="https://github.com/WhiteMuush.png?size=48" width="48" height="48" alt="WhiteMuush"/></a> | **Melvin Petit** ([@WhiteMuush](https://github.com/WhiteMuush)) | Documentation, GitLab / Azure governance, project coordination |
-| <a href="https://github.com/thomas-enj"><img src="https://github.com/thomas-enj.png?size=48" width="48" height="48" alt="thomas-enj"/></a> | **Thomas Enjalbert** ([@thomas-enj](https://github.com/thomas-enj)) | Azure infrastructure and Infrastructure as Code |
-| <a href="https://github.com/ororck"><img src="https://github.com/ororck.png?size=48" width="48" height="48" alt="ororck"/></a> | **Mohamed Saidi** ([@ororck](https://github.com/ororck)) | Logging API development |
-| <a href="https://github.com/elouadiaicha"><img src="https://github.com/elouadiaicha.png?size=48" width="48" height="48" alt="elouadiaicha"/></a> | **Aïcha Elouadi** ([@elouadiaicha](https://github.com/elouadiaicha)) | Documentation, GitLab / Azure governance |
-
-GitLab members: [street-termites group](https://gitlab.com/groups/street-termites/-/group_members).
 
 ---
 
